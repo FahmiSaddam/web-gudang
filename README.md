@@ -50,12 +50,6 @@ Aplikasi ini memudahkan pengelolaan stok, pemantauan barang masuk/keluar, dan pe
 
 ---
 
-## 📸 Tampilan
-
-> Silakan tambahkan screenshot aplikasi di sini untuk mempercantik README.
-
----
-
 ## 💡 Kontribusi
 
 Saran dan kontribusi sangat terbuka!  
